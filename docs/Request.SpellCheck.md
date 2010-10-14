@@ -6,7 +6,7 @@ to get some suggestions. This is done by PHP that uses cURL to get some xml and 
 use Request.JSON for out client-side. That is where Request.SpellCheck is build on. Request.SpellCheck will give
 you an array in the onSuccess event that you can use.
 
-CreditCard Method: constructor(#CreditCard: constructor)
+Request.SpellCheck Method: constructor(#Request.SpellCheck: constructor)
 --------------------------------------------------------
 
 ### Syntax: 
